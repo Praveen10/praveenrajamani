@@ -438,6 +438,12 @@ body {
     margin: 0 1.15rem;
 }
 
+.portfolio-box .btn-box .disabled {
+    pointer-events: none;
+    cursor: not-allowed;
+    opacity: 0.65;
+}
+
 .contact-box {
     text-align: center;
 }

@@ -25,7 +25,7 @@ pageTurnBtn.forEach((e, index) =>{
 // Multiple Text
 
 var typed = new Typed(".multiple-text", {
-    strings: ["Software Developer", "Front-End Developer", "Back-End Developer"],
+    strings: ["Software Developer", "Front-End Developer", "Full-Stack Developer"],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
